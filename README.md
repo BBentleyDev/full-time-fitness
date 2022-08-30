@@ -1,13 +1,13 @@
-# My Awesome Project
-A simple, sleek portfolio to display the works of artist Steven Kroenkae.
+# Full Time Fitness
+A clean, responsive website to promote the services of a local fitness center.
 
-**Link to project:** https://stevekroenkae.netlify.app/
+**Link to project:** https://fulltimefitness.netlify.app/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
 //
 
