@@ -9,8 +9,7 @@ A clean, responsive website to promote the services of a local fitness center.
 
 **Tech used:** HTML, CSS, JavaScript
 
-//
 
-## Lessons Learned:
+## Optimazations:
 
-//
+Add additional pages for further detail & pricing of services and membership options
