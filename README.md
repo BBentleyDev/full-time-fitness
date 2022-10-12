@@ -3,7 +3,7 @@ A clean, responsive website to promote the services of a local fitness center.
 
 **Link to project:** https://fulltimefitness.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](images/fitness.png)
 
 ## How It's Made:
 
